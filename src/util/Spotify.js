@@ -1,5 +1,5 @@
 const clientId = '4dabad176d814b5f95c787dd09bcd808';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://dovey-cc-jammming.surge.sh';
 
 let accessToken;
 let expirationTime;
