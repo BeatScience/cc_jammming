@@ -1,3 +1,5 @@
+You can view a demo of this project deployed on Surge: http://dovey-cc-jammming.surge.sh/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
